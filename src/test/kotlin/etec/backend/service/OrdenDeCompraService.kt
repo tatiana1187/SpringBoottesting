@@ -3,7 +3,7 @@ package etec.backend.service
 import io.kotest.core.spec.style.BehaviorSpec
 import io.kotest.matchers.shouldBe
 
-class OrdenDeCompraServiceTest: BehaviorSpec ({
+class OrdenDeCompraServiceTest : BehaviorSpec({
     Given("una orden de compra cuya suma de items resulta en 100 y el costo de la manteca es de 20") {
 
         val item = Item("Un producto", 100)
