@@ -1,4 +1,4 @@
-package etec.backend
+package etec.backend.service
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
